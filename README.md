@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3> <!-- connect with me -->
 <p align="left">
 </p>
 
